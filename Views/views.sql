@@ -1,0 +1,10 @@
+CREATE VIEW `klienci` AS SELECT * FROM klient;
+CREATE VIEW `zamówienie z adresemem` AS SELECT * FROM zamowienie inner join adres;
+CREATE VIEW `dane pracowników z dzialu magazyn` AS SELECT * FROM pracownik WHERE dzial = 'magazyn';
+CREATE VIEW `dane pracowników z dzialu marketing` AS SELECT * FROM pracownik WHERE dzial = 'marketing';
+CREATE VIEW `wszystkie działy` AS SELECT dzial FROM pracownik group by dzial;
+CREATE VIEW `zakończone zamówienia` AS SELECT * FROM zamowienie WHERE status_zamowienia = 'zakonczone';
+CREATE VIEW `wysłane zamówienia` AS SELECT * FROM zamowienie WHERE status_zamowienia = 'wyslane';
+CREATE VIEW `zamówienia posortowane przez desc` AS SELECT * FROM zamowienie ORDER BY data_zamowienia DESC;
+CREATE VIEW `ID towaru tylko z chlebem pszennym` AS SELECT * FROM towar WHERE chleb = 'pszenny';
+CREATE VIEW `ID Towaru z wodą gazowaną` AS SELECT * FROM towar WHERE woda = 'gazowana';
