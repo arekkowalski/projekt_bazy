@@ -1,0 +1,11 @@
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('1','100','5','1');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('2','88','10','2');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('3','20','2','3');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('4','140','54','4');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('5','50','11','5');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('6','55','19','6');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('7','22','2','7');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('8','44','4','8');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('9','55','5','9');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('10','100','10','10');
+insert into pozycja_zamowienia (id_pozycja_zamowienia,cena_netto,ilosc,zamowienie) values ('11','111','11','11');

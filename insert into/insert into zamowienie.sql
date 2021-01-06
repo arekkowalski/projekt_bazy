@@ -1,0 +1,11 @@
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('1','2020-12-21','1','wyslane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('2','2020-12-23','2','zakonczone');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('3','2020-12-24','3','wyslane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('4','2020-12-25','4','wyslane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('5','2020-12-26','5','wyslane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('6','2020-12-27','6','zakonczone');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('7','2020-12-28','7','anulowane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('8','2020-12-29','8','wyslane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('9','2020-12-10','9','anulowane');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('10','2020-12-22','10','gotowe_do_odbioru');
+insert into zamowienie (id_zamowienie,data_zamowienia,nr_zamowienia,status_zamowienia) values ('11','2020-12-12','11','wyslane');
